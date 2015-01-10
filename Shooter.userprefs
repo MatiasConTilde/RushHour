@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Globales.js">
+    <Files>
+      <File FileName="Assets/Globales.js" Line="3" Column="25" />
+      <File FileName="Assets/Selecciona.cs" Line="10" Column="3" />
+      <File FileName="Assets/Seleccion.js" Line="8" Column="1" />
+      <File FileName="Assets/movimiento.js" Line="18" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
